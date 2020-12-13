@@ -1,0 +1,29 @@
+{
+  "name": "vue-plane",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinawangxy/vue-plane.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinawangxy/vue-plane/issues"
+  },
+  "homepage": "https://github.com/chinawangxy/vue-plane#readme",
+  "devDependencies": {
+    "@vue/runtime-core": "^3.0.4",
+    "pixi.js": "^5.3.3",
+    "webpack": "^5.10.1",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
